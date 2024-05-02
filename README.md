@@ -1,2 +1,2 @@
 # odin-project-recipes
-My first websites
+My first website
